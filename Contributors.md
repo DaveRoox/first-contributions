@@ -392,6 +392,7 @@
 - [Ron Laniado](https://github.com/ronlaniado)
 - [Mahesh Bhat](https://github.com/maheshbhat)
 - [Akarshit sharma](https://github.com/akarshitsharma)
+- [Dave Roox] (https://github.com/DaveRoox)
 - [Akshat](https://github.com/chotuaashiq)
 - [Akhil Jasrotia](https://github.com/akhiljasrotia)
 - [Ankur Barve](https://github.com/ankurbarve)
